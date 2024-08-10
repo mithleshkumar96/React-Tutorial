@@ -13,9 +13,6 @@ function App() {
       <button>Add value</button>
       <br />
       <button>Remove value</button>
-      <button>Remove value</button>
-      <button>Remove value</button>
-      
     </>
   );
 }
